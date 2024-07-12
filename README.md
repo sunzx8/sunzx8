@@ -10,9 +10,9 @@
 ##   Hi！Nice to meet you!
 - 👋 I'm shawn
 - 🌱 Currently working at Tencent.
-- 💬 Committed to becoming a full-stack Machine Learning Engineer. proficient in RAG, fine-tuning, RLHF, and inference acceleration.
+- 💬 Committed to becoming a full-stack Machine Learning Engineer. 
 - 📧 Feel free to reach out to me at sunzx8@connect.hku.h
-- 😃 My hobby dream is to use AI to draw my own comics.
+- 😃 Hobby dream is to use AI to draw my own comics.
 
 
 
