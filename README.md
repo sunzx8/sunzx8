@@ -12,16 +12,9 @@
 - 🌱 Currently working at Tencent.
 - 💬 Committed to becoming a full-stack Machine Learning Engineer. 
 - 📧 Feel free to reach out to me at sunzx8@connect.hku.h
-- 😃 Hobby dream is to use AI to draw my own comics.
 
 
 
-### 📃 Recent Blog
 
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.csdn.net/weixin_44703888/article/details/136745443?spm=1001.2014.3001.5501' target='_blank'>sora技术详解</a> - 2024-03-15
-
-<!-- END_SECTION:blog -->
 
 
